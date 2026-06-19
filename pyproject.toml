@@ -1,0 +1,19 @@
+[project]
+name = "iziko-rag-chatbot"
+version = "0.1.0"
+description = "Retrieval-Augmented Generation chatbot for Iziko Cloud Solutions (fictional South African IT company)."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "gradio>=4.44.0",
+    "ipykernel>=6.29.0",
+    "langchain-chroma>=0.1.4",
+    "langchain-community>=0.3.0",
+    "langchain-openai>=0.2.0",
+    "langchain-text-splitters>=0.3.0",
+    "litellm>=1.50.0",
+    "openai>=1.50.0",
+    "pandas>=2.2.0",
+    "pydantic>=2.8.0",
+]
