@@ -24,6 +24,11 @@ chat model to ground its responses in that retrieved content.
 > are entirely fictional. This project was built as a coursework assignment
 > based on the structure of a training-session reference project.
 
+## Live Demo
+
+- Hugging Face Space: <https://huggingface.co/spaces/Olefile/iziko-rag-chatbot>
+- GitHub repository: <https://github.com/OlefileMamorare/iziko-rag-chatbot>
+
 ## Repository Structure
 
 ```
